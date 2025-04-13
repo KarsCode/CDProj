@@ -37,9 +37,9 @@ This project uses **Bison** and **Flex** to create a lexical analyzer and a pars
    ```
 
 5. **Run the Parser:**
-   Once compiled, you can run the parser using:
+   Once compiled, you can run the parser with input.js using:
    ```bash
-   ./parser
+   ./parser < input.js
    ```
 
 ## Known Issues
